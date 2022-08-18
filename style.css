@@ -1,14 +1,10 @@
 * {
   font-family: 'M PLUS Rounded 1c', Avenir Next, Helvetica, sans-serif;
   color: white;
-  padding: 0;
-  margin: 0;
-  box-sizing: border-box;
 }
 
 body {
   background: #8990ec;
-  margin: 20px;
 }
 
 .wrapper {
